@@ -1,0 +1,2 @@
+PIPELINE[[:space:]]DATA/pipeline.pkl filter=lfs diff=lfs merge=lfs -text
+PIPELINE[[:space:]]DATA/pipelineA.pkl filter=lfs diff=lfs merge=lfs -text
